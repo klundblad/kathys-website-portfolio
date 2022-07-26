@@ -4,7 +4,7 @@
     Things to come...
 </p>
 
-[![Everything Is AWESOME](keaton_kathy.jpg)]([https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=DJ_JUsNw9PA&ab_channel=JamesLundblad) "Everything Is AWESOME")
+[![Everything Is AWESOME](keaton_kathy.jpg)]([[https://www.youtube.com/watch?v=StTqXEQ2l-Y](https://www.youtube.com/watch?v=DJ_JUsNw9PA&ab_channel=JamesLundblad)](https://www.youtube.com/watch?v=DJ_JUsNw9PA&ab_channel=JamesLundblad) "Everything Is AWESOME")
 
 
 <!-- You can use the [editor on GitHub](https://github.com/klundblad/kathys-website-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
