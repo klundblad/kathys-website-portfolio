@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 </p>
 
 <p align="center">
-    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
+    <img width="200" src="keaton_kathy.jpg" alt="Material Bread logo">
 </p>
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
