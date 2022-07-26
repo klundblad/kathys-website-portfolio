@@ -5,9 +5,11 @@ You can use the [editor on GitHub](https://github.com/klundblad/kathys-website-p
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <p align="center">
-    ## Things to come...
-    ![IMG_20220612_004756_967](https://user-images.githubusercontent.com/12982852/181081816-7f558b58-0fa8-4274-bb47-22297309d195.jpg)
+    Things to come...
+</p>
 
+<p align="center">
+    <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
 </p>
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
