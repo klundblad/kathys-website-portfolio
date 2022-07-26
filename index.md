@@ -1,9 +1,5 @@
 ## Katharine Lundblad
 
-You can use the [editor on GitHub](https://github.com/klundblad/kathys-website-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 <p align="center">
     Things to come...
 </p>
@@ -11,6 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <p align="center">
     <img width="200" src="keaton_kathy.jpg" alt="Material Bread logo">
 </p>
+
+You can use the [editor on GitHub](https://github.com/klundblad/kathys-website-portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 <!-- Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
